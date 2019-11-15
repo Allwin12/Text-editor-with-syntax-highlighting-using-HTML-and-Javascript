@@ -12,3 +12,67 @@ This project consists of only three files.
 
 The samples folder will have sample programs for all the languages that are supported by the editor. These sample programs will be loaded as soon as we select the language from the drop down box.
 
+## The following languages are supported by this editor.
+
+* abap
+* aes
+* apex
+* azcli
+* bat
+* c
+* clojure 
+* coffeescript
+* csharp
+* cpp
+* csp
+* css
+* dockerfile
+* fsharp
+* go
+* graphql
+* handlebars
+* html
+* ini
+* java
+* javascript
+* json
+* kotlin
+* les
+* lua
+* markdown
+* mips
+* msdax
+* mysql
+* objective c
+* pascal
+* pascaligo
+* perl
+* pgsql
+* php
+* plaintext
+* postiats
+* powerquery
+* powershell
+* pug
+* python
+* r
+* razor
+* redshift
+* redis
+* ruby
+* rust
+* sb
+* scheme 
+* scss
+* shell
+* sol
+* sql
+* st
+* swift
+* tcl
+* twig
+* typescript
+* vb
+* xml
+* yml
+
