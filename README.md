@@ -76,3 +76,14 @@ The samples folder will have sample programs for all the languages that are supp
 * xml
 * yml
 
+## This editor also supports three themes
+* visual studio
+![](https://github.com/Allwin12/Text-editor-with-syntax-highlighting-using-HTML-and-Javascript/blob/master/screenshots/visualstudio.png)
+
+* visual studio dark
+![](https://github.com/Allwin12/Text-editor-with-syntax-highlighting-using-HTML-and-Javascript/blob/master/screenshots/visualstudiodark.png)
+
+* High contrast dark
+![](https://github.com/Allwin12/Text-editor-with-syntax-highlighting-using-HTML-and-Javascript/blob/master/screenshots/highcontrastdark.png)
+
+:thumbsup:
