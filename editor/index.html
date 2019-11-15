@@ -1,0 +1,46 @@
+<head>
+	<link rel="stylesheet" href="https://microsoft.github.io/monaco-editor/all.css">
+	<link rel="stylesheet" href="https://microsoft.github.io/monaco-editor/lib/bootstrap-cosmo.css">
+	<link rel="stylesheet" href="https://microsoft.github.io/monaco-editor/lib/bootstrap-responsive.min.css">
+	<link rel="stylesheet" href="https://microsoft.github.io/monaco-editor/index/index.css">
+	<script src="https://microsoft.github.io/monaco-editor/lib/bootstrap.min.js"></script>
+    <script src="https://microsoft.github.io/monaco-editor/lib/jquery-1.9.1.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.11/js/bootstrap-select.min.js"></script>
+	<script src="https://microsoft.github.io/monaco-editor/node_modules/monaco-editor/min/vs/loader.js"></script>
+	<script src="https://microsoft.github.io/monaco-editor/node_modules/monaco-editor/min/vs/editor/editor.main.css"></script>
+    <script src="https://requirejs.org/docs/release/2.3.6/minified/require.js"></script>
+    <script src="index.js"></script>
+</head>
+<body>
+<section class="try">
+		<div class="container">
+<h3>Editor</h3>
+			<div class="editor row">
+				<div class="span9">
+					<div class="row">
+						<div class="span4">
+							<label class="control-label">Language</label>
+							<select class="language-picker"></select>
+						</div>
+						<div class="span4">
+							<label class="control-label">Theme</label>
+							<select class="theme-picker">
+								<option>Visual Studio</option>
+								<option>Visual Studio Dark</option>
+								<option>High Contrast Dark</option>
+							</select>
+						</div>
+					</div>
+					<div class="editor-frame">
+						<div class="loading editor" style="display: none;">
+							<div class="progress progress-striped active">
+								<div class="bar"></div>
+							</div>
+						</div>
+						<div id="editor"></div>
+					</div>
+				</div>
+			</div>
+   </div>
+   </section>
+</body>
