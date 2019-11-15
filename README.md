@@ -10,3 +10,5 @@ This project consists of only three files.
 * index.js
 * samples folder
 
+The samples folder will have sample programs for all the languages that are supported by the editor. These sample programs will be loaded as soon as we select the language from the drop down box.
+
